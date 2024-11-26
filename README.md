@@ -39,7 +39,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
     ```bash
     git clone https://github.com/airdropinsiders/aigaea-auto-bot.git
-    cd aigea-auto-bot
+    cd aigaea-auto-bot
     ```
 
 2. **Install dependencies**:
